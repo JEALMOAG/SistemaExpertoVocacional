@@ -1,0 +1,102 @@
+[
+    {
+        "carrera": "Ingenier\u00eda en Software",
+        "condiciones": [
+            "te interesa la tecnolog\u00eda",
+            "te interesa la programaci\u00f3n",
+            "te interesan los sistemas automatizados",
+            "te interesan los algoritmos y la inteligencia artificial",
+            "te gusta resolver problemas"
+        ]
+    },
+    {
+        "carrera": "Dise\u00f1o Gr\u00e1fico",
+        "condiciones": [
+            "te consideras creativo/a",
+            "te interesa el dise\u00f1o y la est\u00e9tica",
+            "prefieres trabajos creativos",
+            "te gusta escribir y leer",
+            "te interesa la tecnolog\u00eda"
+        ]
+    },
+    {
+        "carrera": "Matem\u00e1ticas Aplicadas",
+        "condiciones": [
+            "eres bueno/a en matem\u00e1ticas",
+            "eres bueno/a en estad\u00edstica",
+            "te interesan los algoritmos y la inteligencia artificial",
+            "te gusta resolver problemas de f\u00edsica",
+            "te gusta trabajar con datos"
+        ]
+    },
+    {
+        "carrera": "Psicolog\u00eda",
+        "condiciones": [
+            "te interesa ayudar a los dem\u00e1s",
+            "te interesa la psicolog\u00eda cl\u00ednica",
+            "te gustar\u00eda ense\u00f1ar a otros",
+            "te interesan las ciencias sociales",
+            "prefieres trabajar en equipo"
+        ]
+    },
+    {
+        "carrera": "Biolog\u00eda",
+        "condiciones": [
+            "te interesan las ciencias naturales",
+            "te gusta explorar la naturaleza",
+            "te interesa la biotecnolog\u00eda",
+            "te interesan los temas de conservaci\u00f3n ambiental",
+            "eres bueno/a en biolog\u00eda"
+        ]
+    },
+    {
+        "carrera": "Econom\u00eda",
+        "condiciones": [
+            "te interesa la econom\u00eda",
+            "te gusta trabajar con datos",
+            "te interesan los procesos empresariales",
+            "eres bueno/a en estad\u00edstica",
+            "te interesan los negocios"
+        ]
+    },
+    {
+        "carrera": "Administraci\u00f3n de Empresas",
+        "condiciones": [
+            "te interesan los negocios",
+            "te gusta liderar proyectos",
+            "prefieres tareas pr\u00e1cticas a te\u00f3ricas",
+            "te interesan los procesos empresariales",
+            "te interesa trabajar en proyectos industriales"
+        ]
+    },
+    {
+        "carrera": "Desarrollo de Videojuegos",
+        "condiciones": [
+            "te interesa la programaci\u00f3n",
+            "te interesan los videojuegos",
+            "te consideras creativo/a",
+            "te interesa el dise\u00f1o y la est\u00e9tica",
+            "te gusta resolver problemas"
+        ]
+    },
+    {
+        "carrera": "Medicina",
+        "condiciones": [
+            "te interesa ayudar a los dem\u00e1s",
+            "te gustar\u00eda trabajar en campos m\u00e9dicos",
+            "te interesa la biotecnolog\u00eda",
+            "te interesa trabajar en el \u00e1mbito forense",
+            "eres bueno/a en biolog\u00eda"
+        ]
+    },
+    {
+        "carrera": "Mecatr\u00f3nica",
+        "condiciones": [
+            "te interesa la tecnolog\u00eda",
+            "te interesa trabajar en rob\u00f3tica",
+            "te interesan los sistemas automatizados",
+            "prefieres tareas pr\u00e1cticas a te\u00f3ricas",
+            "te gusta resolver problemas complejos"
+        ]
+    }
+]
